@@ -15,3 +15,17 @@ Automate the generation of multiple-choice questions from PDF documents using Py
    ```bash
    pip install PyPDF2 openai
 
+## Example
+Check out the example usage in the provided script.
+
+## Contributing
+Contributions are welcome! Please follow our contribution guidelines.
+
+## License
+This project is licensed under the MIT License.
+
+## Acknowledgments
+PyPDF2
+OpenAI GPT-3
+## Support
+For any questions or issues, please open an issue.
