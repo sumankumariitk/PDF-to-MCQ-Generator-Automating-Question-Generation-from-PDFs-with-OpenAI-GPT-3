@@ -21,10 +21,10 @@ Check out the example usage in the provided script.
 ## Using Different Engines
 Experiment with different OpenAI GPT-3 engines. In the generate_questions_with_gpt3 function, modify the engine parameter with one of the following:
 
-text-davinci-003 (default)
-text-curie-003
-text-babbage-003
-...
+--> text-davinci-003 (default)
+--> text-curie-003
+--> text-babbage-003
+
 Visit OpenAI's documentation for more details on available engines.
 
 ## Contributing
